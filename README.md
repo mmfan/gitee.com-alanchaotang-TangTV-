@@ -5,7 +5,7 @@ https://gitea.com/alanchaotang/TVBox/raw/branch/main/
 
 https://gitea.com/alanchaotang/TVBox/src/branch/main/
 
-正确方法将src换成raw
+正确方法将src换成raw   blob换成 **raw** 
 
 再去https://o.vg/?lang=ch 缩短链接
 
