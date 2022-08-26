@@ -3,14 +3,7 @@
 {
 	"spider": "https://gitee.com/alanchaotang/TangTV/raw/master/jar/0826合集.jar",
 	"wallpaper": "https://picsum.photos/1280/720/?blur=10",
-	"lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vYWxhbmNoYW90YW5nL1RhbmdUVi9yYXcvbWFzdGVyL2xpdmVzLnR4dA=="]
+	"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vWW91cnNtaWxlL1RWQm94L3Jhdy9icmFuY2gvbWFpbi9saXZlLnR4dA=="]
 		}]
 	}],
 	"sites": [{
