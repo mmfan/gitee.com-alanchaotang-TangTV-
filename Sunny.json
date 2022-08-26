@@ -1,7 +1,7 @@
 //我的 --> 设置 --> 配置地址
 //请输入 https://gitee.com/alanchaotang/TangTV/raw/master/Sunny.json --> 确定
 {
-	"spider": "https://gitee.com/alanchaotang/TangTV/raw/master/jar/sunny.jar",
+	"spider": "https://gitee.com/alanchaotang/TangTV/raw/master/jar/0826合集.jar",
 	"wallpaper": "https://picsum.photos/1280/720/?blur=10",
 	"lives": [
     {
