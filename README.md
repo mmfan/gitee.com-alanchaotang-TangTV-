@@ -21,6 +21,8 @@ https://kvymin.github.io/CatVodTVJsonEditor/
 
 下边这个比较牛了，能加密，能解密：
 
-hfr1107.github.io/catvodtvjsoneditor/
+https://hfr1107.github.io/CatVodTVJsonEditor/
 
 ![输入图片说明](app_bg.png)
+![输入图片说明](%E7%B2%89%E4%B8%9D%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%87/W-.png)
+![输入图片说明](W--.png)
