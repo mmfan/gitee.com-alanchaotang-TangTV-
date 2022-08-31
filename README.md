@@ -16,4 +16,11 @@ https://funletu.com/emoji/
 
 https://www.emojiall.com/zh-hans
 
+TVBox配置编辑器：
+https://kvymin.github.io/CatVodTVJsonEditor/
+
+下边这个比较牛了，能加密，能解密：
+
+hfr1107.github.io/catvodtvjsoneditor/
+
 ![输入图片说明](app_bg.png)
