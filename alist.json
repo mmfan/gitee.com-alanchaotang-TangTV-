@@ -9,71 +9,16 @@
 
 
 "sites":[
-{"key":"csp_Gitcafe",
-	"name":"📜小纸条（云盘高清）",
-	"type":3,"api":"csp_Gitcafe",
-	"searchable":1,"quickSearch":1,"filterable":0,"ext":"f94f580abee345aba10f8f3551e29853"
-	}, {
-		"key": "AliPS",
-		"name": "🌤盘搜",
-		"type": 3,
-		"api": "csp_AliPanSou",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	}, {
-		"key": "Gitcafe",
-		"name": "🌈小纸条",
-		"type": 3,
-		"api": "csp_GitCafe",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "f94f580abee345aba10f8f3551e29853"
-	}, {
-		"key": "FindZY",
-		"name": "🐱找资源",
-		"type": 3,
-		"api": "csp_FindZY",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "f94f580abee345aba10f8f3551e29853"
-	}, {
-		"key": "push_agent",
-		"name": "🐱推送",
-		"type": 3,
-		"api": "csp_PushAgent",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 0,
-		"ext": "f94f580abee345aba10f8f3551e29853"
-	}, {
-	   "key": "csp_Yisou",
-	   "name":"🍬易搜盘",
-	   "type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,
-	   "ext":"f94f580abee345aba10f8f3551e29853",
-	   "jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/TOKENtest.jar"},
+{"key":"csp_Gitcafe","name":"📜小纸条（云盘高清）","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"f94f580abee345aba10f8f3551e29853"},
+{"key": "AliPS","name": "🌤盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable": 1},
+{"key": "Gitcafe","name": "🌈小纸条","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "f94f580abee345aba10f8f3551e29853"},
+{"key": "FindZY","name": "🐱找资源","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "f94f580abee345aba10f8f3551e29853"},
+{"key": "push_agent","name": "🐱推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "f94f580abee345aba10f8f3551e29853"	},
+{"key": "csp_Yisou","name":"🍬易搜盘","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"f94f580abee345aba10f8f3551e29853","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/TOKENtest.jar"},
 {"key":"push_agent","name":"🐱推送(爱优腾/云盘/磁力)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"f94f580abee345aba10f8f3551e29853"},
-
 //{"key":"csp_Alist1","name":"🅿Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"讯维云盘$https://pan.xwbeta.com#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#菊花盘$https://pan.142856.xyz#Adult$https://drive.9t.ee#轻弹浅唱$https://alist.youte.ml"},
-{"key": "t4public",
-            "name": "📡T4",
-            "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=f94f580abee345aba10f8f3551e29853&timeout=10",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "T4",
-            "name": "📡T4_2",
-            "type": 4,
-            "api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=f94f580abee345aba10f8f3551e29853&timeout=10",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
+{"key": "t4public","name": "📡T4","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=f94f580abee345aba10f8f3551e29853&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "T4","name": "📡T4_2","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=f94f580abee345aba10f8f3551e29853&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"csp_77","name":"🎬77(SP)(稳快-秒播推介)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
