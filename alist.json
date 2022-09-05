@@ -28,6 +28,7 @@
 {"key":"KanSJ_spider","name":"🗽看视界(推介)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/ts(%E7%9C%8B%E8%A7%86%E7%95%8C).jar"},
 {"key": "csp_xp_wnvod","name":"💢万能影视(推介)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XB/wnvod.json"},
 {"key":"csp_Wmkk","name":"💯‍完美看看(推介SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"云播看看","name":"🌨云播看看","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/%E4%BA%91%E6%92%AD%E7%9C%8B%E7%9C%8B.json"},
 {"key":"csp_apple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"📕Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Lib","name": "🎉Libvio(推介SP)","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
