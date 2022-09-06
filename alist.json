@@ -30,7 +30,7 @@
 //{"key":"VIP32","name":"😋（T4）","type":4,"api":"https://vod.kooo.eu.org/t4/vip100032","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"VIP64","name":"🍉（T4）","type":4,"api":"https://vod.kooo.eu.org/t4/vip100064","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"VIP128","name":"🦅（T4）","type":4,"api":"https://vod.kooo.eu.org/t4/vip100128","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "Yiso","name": "🍉一搜(仅搜索)","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
+{"key": "Yiso","name": "🍉一搜(仅搜索)","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "f94f580abee345aba10f8f3551e29853"},
 {"key":"VIP1","name": "🍉Vip(T4)","type":4,"api":"http://vod.kooo.eu.org/t4/vip110002","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"VIP3","name": "🍉神马(T4)","type":4,"api":"https://vod.kooo.eu.org/t4/vip11cx08","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"VIP4","name": "🍉看视界(T4)","type":4,"api":"https://vod.kooo.eu.org/t4/vip11b016","searchable":1,"quickSearch":1,"filterable":1},
