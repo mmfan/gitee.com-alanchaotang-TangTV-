@@ -357,14 +357,14 @@
 {"name":"解析4","type":1,"url":"http://json.youguo520.top/fufeng/?url=","ext":{"flag":["bilibili"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name":"解析5", "type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":[ "qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"解析6","type":1,"url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
-{"name":"解析7","type":1,"url":"http://120.233.84.226:5612/tvjx/?url=i?uid=701203&key=bltuyCEFKLTX013679&url=",
-"ext":{"flag":["renrenmi","qq","腾讯","youku","优酷","mgtv","芒果","xigua","西瓜"]}},
-{ "name": "解析8", "type": 1, "url": "https://api.truechat365.com/sigu99/sigy.php?test=
-" },{"name": "解析9","type": 0,"url": "http://150.230.216.174/tvjx.php?url=
-"},
-{"name":"解析10","type":1,"url":"http://w.h100.top/jxhx/jx/?url=
-"},{"name":"解析11","type":1,"url":"https://jx.zui.cm/?url=
-"},
+{"name":"解析7","type":1,"url":"http://120.233.84.226:5612/tvjx/?url=i?uid=701203&key=bltuyCEFKLTX013679&url=","ext":{"flag":["renrenmi","qq","腾讯","youku","优酷","mgtv","芒果","xigua","西瓜"]}},
+{"name":"解析8", "type": 1, "url": "https://api.truechat365.com/sigu99/sigy.php?test="},
+{"name":"解析9","type": 0,"url": "http://150.230.216.174/tvjx.php?url="},
+{"name":"解析10","type":1,"url":"http://w.h100.top/jxhx/jx/?url="},
+{"name":"解析11","type":1,"url":"https://jx.zui.cm/?url="},
+{"name": "OKjx嗅探","type": 0,"url": "https://okjx.cc/?url="},
+{"name":"解析13","type":0,"url":"http://api.wpsseo.cn/?v="},
+{"name":"解析14","type":0,"url":"https://go.yh0523.cn/y.cy?url="},
 {"name":"16","type":1,"url":"https://svip.spchat.top/api/?key=O9HGeIVUqU3REsnmQP&url="},
 {"name":"17","type":1,"url":"https://v.2080kk.com/home/api?type=ys&uid=1308653&key=behnpstwxBCHJMQ029&url="},
 {"name":"18","type":1,"url":"http://jx.hlele.vip/api/?url="},
