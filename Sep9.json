@@ -1,5 +1,5 @@
 {
-"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/0903.jar",
+"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/0912.jar",
 "wallpaper":"http://cms.nokia.press/pics",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vYWxhbmNoYW90YW5nL1RWQm94L3Jhdy9icmFuY2gvbWFpbi9saXZlcy96Yi50eHQ="]}]}],
 "dr_count": 19,
