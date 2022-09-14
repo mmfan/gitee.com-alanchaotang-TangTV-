@@ -45,7 +45,7 @@
 {"key":"天堂资源","name": "🗽天堂资源（T1官采）","type": 1,"api": "http://vipmv.cc/api.php/provide/vod/","searchable": 1,"quickSearch": 1},  
 {"key":"csp_xpath_UM","name":"🗽UM影院(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/UM.json"},
 {"key":"csp_77","name":"🎬77(SP)(推介)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"360_spider","name":"📺360(解析)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "360_spider","name": " 📺360(解析)","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
 {"key":"csp_kuaikan","name":"👀快看(推介SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"KanSJ_spider","name":"🗽看视界(推介)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/ts(%E7%9C%8B%E8%A7%86%E7%95%8C).jar"},
