@@ -4,7 +4,7 @@
 //"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alist.jar",
 //"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/custom_sep.jar",
 //"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/%E5%90%88%E9%9B%86%E6%9B%B4%E6%96%B0%E9%95%BF%E8%80%8177.jar",
-"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/XC0913.jar",
+"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/0914.jar",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
@@ -30,7 +30,7 @@
 //{"key":"VIP32","name":"😋（T4日）","type":4,"api":"https://vod.kooo.eu.org/t4/vip100032","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"VIP64","name":"🍉（T4月）","type":4,"api":"https://vod.kooo.eu.org/t4/vip100064","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"VIP128","name":"🦅（T4星）","type":4,"api":"https://vod.kooo.eu.org/t4/vip100128","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "Yiso","name": "🍉一搜(t仅搜索)","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "f94f580abee345aba10f8f3551e29853"},
+//{"key": "Yiso","name": "🍉一搜(t仅搜索)","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "f94f580abee345aba10f8f3551e29853"},
 {"key":"VIP1","name": "🎭湯影視TV(Tang)","type":4,"api":"http://vod.kooo.eu.org/t4/vip110002","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"VIP3","name": "🍉神马(T4)","type":4,"api":"https://vod.kooo.eu.org/t4/vip11cx08","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"VIP4","name": "🍉看视界(T4)","type":4,"api":"https://vod.kooo.eu.org/t4/vip11b016","searchable":1,"quickSearch":1,"filterable":1},
@@ -62,7 +62,7 @@
 {"key":"csp_XYQBiu_凌云影视","name":"🍭凌云视频(韩国)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/%E5%87%8C%E4%BA%91%E8%A7%86%E9%A2%91%E9%9F%A9%E5%9B%BD.json","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/XYQBiu_0828.jar"},
 {"key": "9E03", "name": "🐞9E国语", "type":3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod","jar":"https://gitea.com/alanchaotang/TVBox/raw/branch/main/MaooXB/9E03.jar"},		
 {"key":"csp_xpath_007","name":"🐷玲玲七(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/007.json"},
-//{"key":"360_spider","name":"📺360(解析)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"csp_DiDuan" ,"name":"🐞低端影视(推介SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "简影","name": "🌟简影","type": 4,"api": "https://vod.kooo.eu.org/t4/vip11b016","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Jianying","name":"✨简影(SP)","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoxNDg0MywiQ3JlYXRlZEF0IjoiMjAyMi0wNC0xMlQxMDoxMjowNi4wMjQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTA1VDEwOjQ5OjMwLjU4NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjE2OTM1MTE4NkBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJjYzI0NWM4NS1jMjc1LTRhMmYtYmI5MC02ZWYxODg5ZDA4YzQiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0wOS0wNVQxMDo0OTozMC41ODQrMDg6MDAiLCJyZWdfa2V5IjoiOTg4MTUxMzUiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjYyOTkxNTA1LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.D5bWERTTmTREF3H7lOGxwq9Ec8ou82909YpqO2PJqg4"},
