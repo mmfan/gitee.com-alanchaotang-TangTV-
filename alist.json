@@ -83,7 +83,7 @@
 {"key":"追剧喵","name":"😸追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_appysv2_amhys","name": "🌸爱麻花影院(SP)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://v.jiexi.work/qingdoujiekou.php/v1.vod"},
 {"key": "小熊","name": "🐻小熊TV(SP)","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key":"csp_Tkys","name":"🐞天空影视(SP)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_XBiubiubiubiu_蓝光影视","name": "💿蓝光影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.gitea.com/aptx77/tvbox/raw/branch/master/MaooXB/lgys.json"},
 {"key":"3EDY","name":"🗽3EDY(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mjxq","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "abyy","name": "🍉AB影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/kuukey/b/-/raw/master/6/abyy.json"},
