@@ -24,7 +24,9 @@ https://kvymin.github.io/CatVodTVJsonEditor/
 https://hfr1107.github.io/CatVodTVJsonEditor/
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+
 //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
+
 //"wallpaper": "https://bg.s.welsun.win/api",
 
 ![输入图片说明](app_bg.png)
