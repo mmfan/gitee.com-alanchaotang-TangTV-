@@ -1,19 +1,12 @@
 //感谢各位隐姓埋名的大佬分享~所有东西都是扒拉大佬的，只是为小白提供一个方便，这个配置本质是给纯小白用的，仅限于能正常使用，更新维护都不及时，请见谅。
 
 {
-//"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alist.jar",
-//"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/custom_sep.jar",
-//"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/%E5%90%88%E9%9B%86%E6%9B%B4%E6%96%B0%E9%95%BF%E8%80%8177.jar",
-"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/0914.jar",
+"spider":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/999.png;md5;4FBFCC5F52D2C063F0EA4F0B9BCC04E4",
+"wallpaper":"https://tool.weetai.cn/api","lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9xcV8yNjg5ODIzMS9UVkJveC8tL3Jhdy9tYWluL2xpdmUvemIudHh0"]}]}],
 
-"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-//"wallpaper": "https://picsum.photos/1280/720/?blur=10",
-
-//"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vYWxhbmNoYW90YW5nL1RWQm94L3Jhdy9icmFuY2gvbWFpbi9saXZlcy96Yi50eHQ="]}]}],
-"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vYWxhbmNoYW90YW5nL1RhbmdUVi9yYXcvbWFzdGVyL2xpdmVzL2xpdmUoSEspLnR4dA=="]}]}],
 "sites":[
-//{"key":"csp_Kunyu77","name":"🌤酷云七七,"type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_AppTT","name":"🐰兔兔影院,"type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_77","name":"🎬77(SP)(推介)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_AppTT","name":"🐰兔兔影院","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bd","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Lezhu_spider","name":"🐷乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
