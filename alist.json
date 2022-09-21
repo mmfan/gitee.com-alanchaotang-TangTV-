@@ -15,8 +15,8 @@
 //"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alist.jar",
 //"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/custom_sep.jar",
 //"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/%E5%90%88%E9%9B%86%E6%9B%B4%E6%96%B0%E9%95%BF%E8%80%8177.jar",
-//"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/999.jar",
-"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/tangTV.jar",
+"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/999.jar",
+//"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/tangTV.jar",
 
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
@@ -28,9 +28,9 @@
 "sites":[
 {"key":"csp_Gitcafe","name":"📜小纸条(云盘高清)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"f94f580abee345aba10f8f3551e29853"},
 {"key":"csp_xpath_clss","name":"🧲磁力搜索","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/%E7%A3%81%E5%8A%9B%E6%90%9C%E7%B4%A2.json"},
-//{"key": "AliPS","name": "🌤盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable": 1},
+{"key": "AliPS","name": "🌤盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable": 1},
 //{"key": "Gitcafe","name": "🌈小纸条","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "f94f580abee345aba10f8f3551e29853"},
-//{"key": "zhaozy","name": "🐱找资源","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "f94f580abee345aba10f8f3551e29853"},
+{"key": "zhaozy","name": "🐱找资源","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "f94f580abee345aba10f8f3551e29853"},
 {"key": "push_agent","name":"🐱推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "f94f580abee345aba10f8f3551e29853"	},
 {"key": "csp_Yisou","name":"🍬易搜盘","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"f94f580abee345aba10f8f3551e29853","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/TOKENtest.jar"},
 {"key":"csp_Alist","name":"🗂Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/Alist.json"},
