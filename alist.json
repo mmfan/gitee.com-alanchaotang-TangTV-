@@ -44,7 +44,7 @@
 {"key":"csp_Zhaozy","name":"🔍找资源+原画（仅支持搜索）","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"26496fd573ac45d5b3b3f77799fc126f","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/painting.jar"},
 {"key":"csp_AliPS","name":"📀喵狸盘搜+原画(仅支持搜索）","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"26496fd573ac45d5b3b3f77799fc126f","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/painting.jar"},
 
-//{"key":"VIP1","name": "🎭湯影視TV(Tang)","type":4,"api":"http://vod.kooo.eu.org/t4/vip110002","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"VIP1","name": "🎭湯影視TV(Tang)","type":4,"api":"http://vod.kooo.eu.org/t4/vip110002","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bd","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"bdys","name":"☀️哔嘀(磁力测试)","type": 3,"api":"csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bdys.json"},
 {"key": "csp_biubiu_yekong","name": "🌃夜空高清","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XB/yekong.json"},
