@@ -25,9 +25,9 @@
 //"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vYWxhbmNoYW90YW5nL1RWQm94L3Jhdy9icmFuY2gvbWFpbi9saXZlcy96Yi50eHQ="]}]}],
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vYWxhbmNoYW90YW5nL1RhbmdUVi9yYXcvbWFzdGVyL2xpdmVzL3R2bGl2ZS50eHQ="]}]}],
 "sites":[
-{"key":"阿里盘搜","name":"🐶阿里盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
-{"key":"push_agent","name":"🐶推送","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":1,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
-{"key":"Gitcafe","name":"📃小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/ali.jar"},
+{"key":"阿里盘搜","name":"⚽阿里盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
+{"key":"push_agent","name":"⚽推送","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":1,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
+{"key":"Gitcafe","name":"⚽小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/ali.jar"},
 {"key":"csp_Zhaozy","name":"🔍找资源+原画（仅支持搜索）","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/painting.jar"},
 {"key":"csp_AliPS","name":"📀喵狸盘搜+原画(仅支持搜索）","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/painting.jar"},
 //{"key":"csp_Gitcafe","name":"📜小纸条(云盘高清)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"868fc73ad70d4b958bbbda93330c6c35"},
@@ -41,7 +41,7 @@
 //{"key": "csp_XYQBiu_聚合影视","name": "🍎聚合影视(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/%E8%81%9A%E5%90%88.json"},
 {"key":"csp_biubiu_dadagui","name":"🐢达达龟","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/alantang1977/TangBox/raw/main/XP/dadagui.json"},
 
-//{"key":"csp_Bd","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Bd","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xp_bdys01","name":"💢哔滴影视(磁)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/bdys.json"},
 {"key":"bdys","name":"☀️哔嘀(磁力测试)","type": 3,"api":"csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XP/bdyss.json"},
 {"key": "csp_biubiu_yekong","name": "🌃夜空高清","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XB/yekong.json"},
