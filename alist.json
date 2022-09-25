@@ -25,7 +25,7 @@
 //"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vYWxhbmNoYW90YW5nL1RWQm94L3Jhdy9icmFuY2gvbWFpbi9saXZlcy96Yi50eHQ="]}]}],
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vYWxhbmNoYW90YW5nL1RhbmdUVi9yYXcvbWFzdGVyL2xpdmVzL3R2bGl2ZS50eHQ="]}]}],
 "sites":[
-{"key": "Upyunso","name": "up云搜","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/0925.jar"},
+{"key": "Upyunso","name": "up云搜","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"868fc73ad70d4b958bbbda93330c6c35"},
 {"key":"阿里盘搜","name":"⚽阿里盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
 {"key":"push_agent","name":"⚽推送","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":1,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
 {"key":"Gitcafe","name":"⚽小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/ali.jar"},
