@@ -16,7 +16,7 @@
 //"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/custom_sep.jar",
 //"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/%E5%90%88%E9%9B%86%E6%9B%B4%E6%96%B0%E9%95%BF%E8%80%8177.jar",
 //"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/20220923_ts0903.jar",
-"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/0922.jar",
+"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/0926.jar",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
@@ -56,7 +56,7 @@
 {"key": "Kuaikan","name": "🈷️月光快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"土狗360","name":"🐞土狗360(官)","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "csp_xpath_lenxitv","name": "🎞️冷曦影视(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XP/lenxi.json"},
-
+{"key": "APPTT","name": "📗图图（SP）","api": "csp_AppTT","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
 
 {"key":"饭团影视","name":"🍎饭团影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/%E9%A5%AD%E5%9B%A2HD.json"},
 {"key":"优众影视","name":"🚁优众影视〔SP〕","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
