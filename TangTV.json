@@ -28,6 +28,8 @@
 "sites":[
 
 //XBPQ-F
+{"key": "csp_xBPQ_胖虎","name": "️🌐胖虎影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XP/%E8%83%96%E8%99%8E%E5%BD%B1%E8%A7%86.json"},
+
 {"key": "csp_xBPQ_在线","name": "️🦉在线之家(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XP/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6(XBPQ).json"},
 {"key": "csp_xBPQ_buka","name": "️🪂不卡影院(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XP/%E4%B8%8D%E5%8D%A1%E5%BD%B1%E9%99%A2(XBPQ).json"},
 {"key": "csp_xBPQ_极品","name": "🧳极品影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XP/%E6%9E%81%E5%93%81%E5%BD%B1%E8%A7%86(XBPQ).json"},
