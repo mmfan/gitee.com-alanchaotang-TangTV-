@@ -28,13 +28,13 @@
 "sites":[
 
 {"key": "Upyunso","name": "🌤up云搜","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XP/up%E4%BA%91%E6%90%9C.json","jar": ""},
-{"key":"阿里盘搜","name":"⚽阿里盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
+{"key":"阿里盘搜","name":"🐺阿里盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
 {"key":"push_agent","name":"⚽推送","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":1,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
-{"key":"Gitcafe","name":"⚽小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/ali.jar"},
+{"key":"Gitcafe","name":"🦋小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/ali.jar"},
 {"key":"csp_Zhaozy","name":"🔍找资源+原画（仅支持搜索）","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/painting.jar"},
 {"key":"csp_AliPS","name":"📀喵狸盘搜+原画(仅支持搜索）","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/painting.jar"},
 
-//XBPQ-F
+//XBPQ-Python
 {"key": "csp_xBPQ_胖虎","name": "️🐯胖虎影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XP/%E8%83%96%E8%99%8E%E5%BD%B1%E8%A7%86.json"},
 {"key": "csp_xBPQ_巨人","name": "️🌺巨人影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XBPQ/%E5%B7%A8%E4%BA%BA.json"},
 {"key": "csp_xBPQ_干饭","name": "️🐝干饭影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XBPQ/%E5%B9%B2%E9%A5%AD.json"},
