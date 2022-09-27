@@ -12,11 +12,6 @@
 "rating": [{"name": "rating","request": {"method": "GET","url": {"raw": "https://api.wmdb.tv/api/v1/movie/search?q={name}&limit=1"}},
 "response": {"result": "this","data": [{"key": "rating","value": "doubanRating"}]}}],
 
-//"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alist.jar",
-//"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/custom_sep.jar",
-//"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/%E5%90%88%E9%9B%86%E6%9B%B4%E6%96%B0%E9%95%BF%E8%80%8177.jar",
-//"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/20220923_ts0903.jar",
-//"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/0926.jar",
 "spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/gg0925.jar",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
@@ -29,12 +24,12 @@
 
 //盘搜
 {"key": "Upyunso","name": "🌤up云搜","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XP/up%E4%BA%91%E6%90%9C.json","jar": ""},
-{"key":"阿里盘搜","name":"🐺阿里盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
+//{"key":"阿里盘搜","name":"🐺阿里盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
 {"key":"push_agent","name":"⚽推送","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":1,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
 {"key":"Gitcafe","name":"🦋小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/ali.jar"},
-{"key":"csp_Zhaozy","name":"🔍找资源+原画（仅支持搜索）","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/painting.jar"},
+//{"key":"csp_Zhaozy","name":"🔍找资源+原画（仅支持搜索）","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/painting.jar"},
 {"key":"csp_AliPS","name":"📀喵狸盘搜+原画(仅支持搜索）","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/painting.jar"},
-{"key": "csp_Alist2","name": "Alist","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://刚刚.live/jar2/tvjs/alist.json"},
+{"key": "csp_Alist2","name": "🐺Alist","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://刚刚.live/jar2/tvjs/alist.json"},
 
 //XBPQ-Python
 {"key": "csp_xBPQ_胖虎","name": "️🐯胖虎影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XP/%E8%83%96%E8%99%8E%E5%BD%B1%E8%A7%86.json"},
