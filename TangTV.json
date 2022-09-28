@@ -53,7 +53,6 @@
 {"key": "csp_xBPQ_酷客","name": "🐤酷客影院(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XP/%E9%85%B7%E5%AE%A2%E5%BD%B1%E9%99%A2(XBPQ).json"},
 {"key": "csp_XYQBiu_lingyun","name": "🦜凌云影视(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XP/lingyun.json"},
 {"key": "csp_XYQBiu_大米星球","name": "🦩大米星球(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XBPQ/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83(xBPQ).json"},
-
 {"key": "csp_xBPQ_555电影","name": "️🐦555电影(xBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XBPQ/555%E7%94%B5%E5%BD%B1(xBPQ).json"},
 {"key": "csp_xBPQ_555影视","name": "️🐦555影视(xBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XBPQ/555%E5%BD%B1%E8%A7%86(xBPQ).json"},
 {"key": "csp_xBPQ_Tang影视","name": "️🐦Tang影视(xBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XBPQ/app%E5%BD%B1%E8%A7%86(xBPQ).json"},
@@ -87,9 +86,8 @@
 {"key": "csp_xBPQ_三五电影","name": "️🐦三五电影(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XBPQ/%E4%B8%89%E4%BA%94%E7%94%B5%E5%BD%B1(xBPQ).json"},
 {"key": "csp_xBPQ_追剧Free","name": "️🐦追剧Free(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://"},
 {"key": "csp_xBPQ_","name": "️🐦荐片影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XBPQ/%E8%BF%BD%E5%89%A7Free(xBPQ).json"},
-
-
 {"key":"csp_biubiu_YYDS影院","name":"🧲YYDS影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/YYDS%E5%BD%B1%E9%99%A2.json"},
+
 //{"key":"csp_Gitcafe","name":"📜小纸条(云盘高清)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"868fc73ad70d4b958bbbda93330c6c35"},
 //{"key":"csp_xpath_clss","name":"🧲磁力搜索","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/%E7%A3%81%E5%8A%9B%E6%90%9C%E7%B4%A2.json"},
 //{"key": "zhaozy","name": "🐱找资源","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "868fc73ad70d4b958bbbda93330c6c35"},
