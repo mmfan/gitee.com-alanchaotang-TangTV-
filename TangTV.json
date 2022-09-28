@@ -12,7 +12,8 @@
 "rating": [{"name": "rating","request": {"method": "GET","url": {"raw": "https://api.wmdb.tv/api/v1/movie/search?q={name}&limit=1"}},
 "response": {"result": "this","data": [{"key": "rating","value": "doubanRating"}]}}],
 
-"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/gg0925.jar",
+//"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/gg0925.jar",
+"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/0928.jar",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
