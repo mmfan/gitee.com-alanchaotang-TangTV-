@@ -13,7 +13,7 @@
 "response": {"result": "this","data": [{"key": "rating","value": "doubanRating"}]}}],
 
 //"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/gg0925.jar",
-"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/0928.jar",
+"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/1007.jar",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
@@ -116,6 +116,7 @@
 //{"key": "csp_xBPQ_cs","name": "️🥕FreeOK(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XP/freeok.json"},
 //{"key": "csp_xBPQ_蓝光","name": "🐳蓝光影院(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XP/lgyy.json"},
 
+{"key":"Anfuns","name":"Anfuns","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bd","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐰兔兔影院","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"饭团影视","name":"🍎饭团影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/%E9%A5%AD%E5%9B%A2HD.json"},
